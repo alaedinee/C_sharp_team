@@ -10,6 +10,11 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
+            Console.WriteLine("ajoutmessage");
+            Console.WriteLine("ajoutmessage2");
+            Console.WriteLine("ajoutmessage3");
+            Console.WriteLine("VALIDATION");
         }
     }
 }
