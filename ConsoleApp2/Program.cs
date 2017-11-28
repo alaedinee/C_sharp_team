@@ -14,6 +14,7 @@ namespace ConsoleApp2
             Console.WriteLine("ajoutmessage");
             Console.WriteLine("ajoutmessage2");
             Console.WriteLine("ajoutmessage3");
+            Console.WriteLine("VALIDATION");
         }
     }
 }
